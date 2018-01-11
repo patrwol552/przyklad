@@ -31,15 +31,15 @@
         android:layout_height="wrap_content"
         android:hint="Podaj numer stolika"
         android:textAlignment="center"/>
-    
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="170dp"
-        android:background="@color/colorPrimary"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
+        android:layout_marginTop="170dp"
+        android:background="@color/colorPrimary"
         android:text="Wybierz dane"
-        android:textColor="@android:color/white"/>
+        android:textColor="@android:color/white" />
 
 </LinearLayout>
