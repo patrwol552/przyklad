@@ -40,6 +40,7 @@
         android:layout_marginTop="170dp"
         android:background="@color/colorPrimary"
         android:text="Wybierz dane"
+        android:id="@+id/wybierzdane_btn"
         android:textColor="@android:color/white" />
 
 </LinearLayout>
